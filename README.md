@@ -7,9 +7,9 @@
 난수2 : 6
 총합 : 51
 
-package com.greedy.section02.looping;
+	package com.greedy.section02.looping;
 
-public class Question {
+	public class Question {
 
 	public static void main(String[] args) {
 
@@ -49,4 +49,4 @@ public class Question {
 		
 	}
 
-}
+	}
